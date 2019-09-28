@@ -11,3 +11,4 @@ Para o circuito da trava eletrônica com RFID vamos utilizar o seguinte material
 2x Resistores 1Kohm
 1x Placa UNO R3
 1x fonte de 9-12V
+
